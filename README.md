@@ -9,28 +9,20 @@ An interactive 8-page Power BI dashboard designed for commercial banking executi
 Below are the individual pages tracking different aspects of the lending portfolio:
 
 ### 1. Landing Page
-![Landing Page](1.Landing%20Page.png)
 
 ### 2. Portfolio Overview
-![Portfolio Overview](2.Portfolio%20Overview.png)
 
 ### 3. Credit Risk & Quality Analysis
-![Credit Risk & Quality Analysis](3.Credit%20Risk%20%26%20Quality%20Analysis.png)
 
 ### 4. Regional & Branch Performance
-![Regional & Branch Performance](4.Regional%20%26%20Branch%20Performance.png)
 
 ### 5. Active Portfolio by Loans Status
-![Active Portfolio by Loans Status](5.Active%20Portfolio%20by%20Loans%20Status.png)
 
 ### 6. Total Portfolio Drill Down
-![Total Portfolio Drill Down](6.Total%20Portfolio%20Drill%20Down.png)
 
 ### 7. Bookmark & Selection (Tables & Visuals)
-![Bookmark & Selection](7.Bookmark%20%26%20selection%20\(Tables%20%26%20Visuals\).png)
 
 ### 8. Data Quality & Findings
-![Data Quality & Findings](8.Data%20Quality%20%26%20Findings.png)
 
 ---
 
