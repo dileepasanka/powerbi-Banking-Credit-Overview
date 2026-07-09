@@ -56,11 +56,3 @@ Below are the individual pages tracking different aspects of the lending portfol
 * **Performance Optimization:** Built with strict single-direction filters to maximize DAX storage engine efficiency.
 * **Time Intelligence:** Integrated a dedicated Date table to calculate flawless Month-over-Month (MoM) and Year-to-Date (YTD) metrics.
 
-### 2. Core DAX Measures
-* **Active Portfolio Value:**
-  ```dax
-  Total Active Portfolio = 
-  CALCULATE(
-      SUM('Fact_Loans'[Outstanding_Balance]),
-      'Dim_Loan_Status'[Status_Group] = "Active"
-  )
